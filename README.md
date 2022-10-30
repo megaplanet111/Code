@@ -32,8 +32,8 @@
 #### 8.[Файл модели сети.](https://github.com/megaplanet111/Code/blob/main/Narzullayev B.Sh.pkt)
 #### 9.[Скриншоты локальной сети.](https://github.com/megaplanet111/Code/tree/main/photos)
 
-# ⚪️ Экзаменационные билет №23 ⚪️
+# ⚪️ Экзаменационные билет №8 ⚪️
 
 Ответ на экзаменационный билет:
-[Билет №23](https://github.com/megaplanet111/Code/blob/main/IDM-22-03 Narzullayev B.docx)
+[Билет №8](https://github.com/megaplanet111/Code/blob/main/IDM-22-03 Narzullayev B.docx)
 

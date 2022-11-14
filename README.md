@@ -1,4 +1,4 @@
-### stankin-22-04
+### stankin-22-03
 # Личная страница-отчет
 
 # ⚪️ Лабораторная работа №1 ⚪️
@@ -30,7 +30,7 @@
 #### 8.[Файл модели сети.](https://github.com/megaplanet111/Code/blob/main/Narzullayev%20B.Sh.pkt)
 #### 9.[Скриншоты локальной сети.](https://github.com/megaplanet111/Code/tree/main/photos)
 
-# ⚪️ Экзаменационные билет №8 ⚪️
+# ⚪️ Экзаменационные билет №24 ⚪️
 
 Ответ на экзаменационный билет:
-[Билет №8](https://github.com/megaplanet111/Code/blob/main/IDM-22-03%20Narzullayev%20B.docx)
+[Билет №24](https://github.com/megaplanet111/Code/blob/main/IDM-22-03%20Narzullayev%20B.docx)

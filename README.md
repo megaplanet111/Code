@@ -32,5 +32,9 @@
 
 # ⚪️ Экзаменационные билет №24 ⚪️
 
+[Перейти к билету №24](https://github.com/stankin/inet-2022/wiki/exam24)
+
+[Compare](https://github.com/stankin/inet-2022/wiki/exam24/_compare/7760f58adba0513617e70bd9433c066efdad2f4e)
+
 Ответ на экзаменационный билет:
 [Билет №24](https://github.com/megaplanet111/Code/blob/main/IDM-22-03%20Narzullayev%20B.docx)
